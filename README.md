@@ -1,0 +1,2 @@
+# cloudmimer
+Cloud miner
